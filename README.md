@@ -1,16 +1,16 @@
-## Hi, im Syahmi! 👋
+# Hi, im Syahmi! 👋
 
 Welcome to my GitHub profile
 
-# Intro
+## Intro
 - I'm a CS student in Malaysia, specializing in SOFTWARE ENGINEERING
 - Open to learning and sharing my mini projects here
 
-# Skills
+## Skills
 - **Languages** Python (mainly), C++ (currently learning)
 - **Techs** Git, Linux (Ubuntu), Flask
 
-# Hobbies
+## Hobbies
 - I code in my free time and I like using AI tools to help me understand fundamentals
 - I play games
 <!---
