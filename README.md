@@ -3,7 +3,7 @@
 Welcome to my GitHub profile
 
 ## Intro
-- I'm a CS student in Malaysia, specializing in SOFTWARE ENGINEERING
+- I'm a CS student in Malaysia, specializing in Software Engineering.
 - Open to learning and sharing my mini projects here
 
 ## Skills
