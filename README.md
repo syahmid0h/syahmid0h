@@ -7,7 +7,7 @@ Welcome to my GitHub profile
 - Open to learning and sharing my mini projects here
 
 ## Skills
-- **Languages** Python (mainly), C++ (currently learning)
+- **Languages** Python (mainly), C++
 - **Techs** Git, Linux (Ubuntu), Flask
 
 ## Hobbies
